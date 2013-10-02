@@ -113,8 +113,6 @@ int8_t
   dX   = 0, dY   = 0;   // Distance from prior to new position
 
 void setup() {
-  Serial.begin(9600);
-
   // Seed random number generator from an unused analog input:
   randomSeed(analogRead(A0));
 
@@ -148,8 +146,6 @@ void loop() {
     blinkColorSwitchCounter++;
   if (blinkCountdown == 0) 
     blinkCountdown = random(5, 180);
-  Serial.println(blinkCountdown);
-  Serial.println(blinkColorSwitchCounter);
   
   // Switch eye color mid-blink
   if (blinkColorSwitchCounter >= 5)
