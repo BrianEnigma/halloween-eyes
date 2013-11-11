@@ -1,6 +1,6 @@
 #Overview
 
-![animated eyes](http://netninja.com/wp-content/uploads/2013/11/eyes.gif)
+![animated eyes](http://netninja.com/wp-content/uploads/2013/11/eyes.gif "animated eyes")
 
 This project is a set of motion-sensitive electronic eyes that seem harmless at first, but that get evil and angry when you get too close.
 
