@@ -1,21 +1,18 @@
 #Overview
 
-TODO:
-- overview text
-- Link to Adafruit code
-- Animated gif
+![animated eyes](http://netninja.com/wp-content/uploads/2013/11/eyes.gif)
 
-#Technical Details
+This project is a set of motion-sensitive electronic eyes that seem harmless at first, but that get evil and angry when you get too close.
 
-TODO
+Much more information, including photos and background details, can be found on this blog post: http://netninja.com/2013/11/10/spooky-motion-sensitive-halloween-eyes/
 
 #Tasks
 
-- [ ] Basic hardare
-- [ ] Basic code
-- [ ] Motion sensor
-- [ ] Final code
-- [ ] Acrylic frames
-- [ ] Connectors
-- [ ] Final state
+- [X] Basic hardare
+- [X] Basic code
+- [X] Motion sensor
+- [X] Final code
+- [X] Acrylic frames
+- [X] Connectors
+- [X] Final state
 
